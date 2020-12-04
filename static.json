@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "antipogcopy"
+      "X-Author": "antipogcopy",
+      "Access-Control-Allow-Origin": "*"
       }
    }
 }
